@@ -2,6 +2,6 @@
 
 ## Isso daqui é uma alteração
 
-- Com vários
-- Tópicos
-- Maneiros
+- Com vários;
+- Tópicos;
+- Maneiros;
